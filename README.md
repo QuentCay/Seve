@@ -2,7 +2,7 @@
 
 <img src="assets/images/header.png" alt="Header Seve" style="width: 100%;" />
 
-**Seve** est un projet réalisé par une équipe de 4 développeurs pendant ma formation à ISIKA. Il s'agit d'une plateforme SaaS dédiée à la gestion des **Associations pour le Maintien d’une Agriculture Paysanne** (AMAP). Ce projet a été conçu pour faciliter et optimiser la gestion quotidienne des AMAP en offrant une solution simple et efficace à tous les acteurs impliqués : administrateurs, producteurs et adhérents. L'objectif principal de ce projet est de simplifier la gestion des adhésions, des commandes et des services pour les AMAPs, en leur offrant une plateforme clé en main qui répond à leurs besoins spécifiques.
+**Seve** est un projet réalisé par une équipe de 4 développeurs pendant ma formation à ISIKA. Il s'agit d'une plateforme SaaS dédiée à la gestion des **Associations pour le Maintien d’une Agriculture Paysanne** (AMAP). Ce projet a été conçu pour faciliter et optimiser la gestion quotidienne des AMAPs en offrant une solution simple et efficace à tous les acteurs impliqués : administrateurs, producteurs et adhérents. L'objectif principal de ce projet est de simplifier la gestion des adhésions, des commandes et des services pour les AMAPs, en leur offrant une plateforme clé en main qui répond à leurs besoins spécifiques.
 
 **Temps imparti :** 
 - Rédaction d'un cahier des charges ( **15 jours**, en dehors des heures de formation).
